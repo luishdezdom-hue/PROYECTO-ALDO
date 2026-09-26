@@ -1,0 +1,6 @@
+{
+  "summary":  "Plan de implementación para la aplicación de reconocimiento de expresiones faciales y telemetría emocional en tiempo real con MediaPipe Face Landmarker (TFLite Wasm/GPU), 52 blendshapes de alta precisión, análisis dimensional de valencia/activación y diseño de laboratorio clínico.",
+  "updatedAt":  "2026-09-26T22:39:34.908554198Z",
+  "requestFeedback":  true,
+  "userFacing":  true
+}

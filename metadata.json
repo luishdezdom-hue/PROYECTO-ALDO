@@ -1,0 +1,6 @@
+{
+  "name": "NeuroFace Lab - Telemetría Facial y Emocional en Tiempo Real",
+  "description": "Sistema clínico de reconocimiento de expresiones faciales y telemetría emocional de alta fidelidad con MediaPipe Face Landmarker, 52 blendshapes y análisis biomecánico en tiempo real.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
